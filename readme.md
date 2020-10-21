@@ -1,4 +1,4 @@
-## Freenove LCD1602 Starter Kit for Arduino
+## Freenove LCD1602 Starter Kit
 
 A kit with a control board (compatible with Arduino® IDE) for learning programming and electronics.
 
